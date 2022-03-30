@@ -11,3 +11,6 @@ Fernanda Flores, 23 años, diseñadora, Pc armado
 
 Isidora Millas, 22 años, estudiante de diseño, Omen hp
 ![mi_atacazo_artistico isidora](https://user-images.githubusercontent.com/101229924/160848179-b7c2420e-704d-4298-a0ba-d013d519aef9.jpeg)
+
+Catalina Diaz, 21 años, estudiante de diseño, Mackbook
+![mi_atacazo_artistico cata](https://user-images.githubusercontent.com/101229924/160856983-d7e4afaa-c1df-4b41-8440-a42076952783.jpeg)
